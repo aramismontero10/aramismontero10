@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/aramismontero10/aramismontero10/blob/main/gifs/welcome.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/aramismontero10/aramismontero10/blob/main/gifs/bye.gif" alt="Welcome!" width="500" height="250"/>
 
 </div>
 
@@ -30,5 +30,6 @@ or <a href="aramismontero10@gmail.com"><b>email</b></a> me
 
 <a href="https://es-la.facebook.com/aramis.monterosolano" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
+  <img src="https://github.com/aramismontero10/aramismontero10/blob/main/gifs/work.gif" alt="Welcome!" width="500" height="250"/>
 </div>
 
