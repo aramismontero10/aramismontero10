@@ -1,10 +1,10 @@
 <div align="center">
-<h2> Hello there, fellows <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/aramismontero10/aramismontero10/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hello there, fellows <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/aramismontero10/aramismontero10/blob/main/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://github.com/aramismontero10/aramismontero10/blob/master/gifs/welcome.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/aramismontero10/aramismontero10/blob/main/gifs/welcome.gif" alt="Welcome!" width="300"/>
 
 </div>
 
